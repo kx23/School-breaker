@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "454672009560",
+    "project_id": "school-breaker-db6d2",
+    "storage_bucket": "school-breaker-db6d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454672009560:android:af089ca2ddbeed3ed37d2d",
+        "android_client_info": {
+          "package_name": "com.skyered.schoolbreaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454672009560-4abv679mfl2t3r2pjljnped2mb0v4jul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyered.schoolbreaker",
+            "certificate_hash": "eb9e216ab4d55e579d26e07726019751b4c60a24"
+          }
+        },
+        {
+          "client_id": "454672009560-c4of2j3lp0js0dpp6uui3h3m1fnf25gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyered.schoolbreaker",
+            "certificate_hash": "bad7b9cad2bf1a7f55dd7f125c67fe379dcecc9f"
+          }
+        },
+        {
+          "client_id": "454672009560-8sni3g92ldgn13mj8jeo6q7a71tt51fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxH6W1f8WsEMuBpvuF4ETpweDfx04xz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454672009560-8sni3g92ldgn13mj8jeo6q7a71tt51fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

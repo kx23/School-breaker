@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 11217c3b00bcac14d8f0f8691b092ae1
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bike_Rider_l_Arm_ClavicleSHJnt
+  - first:
+      1: 100002
+    second: Bike_Rider_l_Arm_ElbowSHJnt
+  - first:
+      1: 100004
+    second: Bike_Rider_l_Arm_ShoulderSHJnt
+  - first:
+      1: 100006
+    second: Bike_Rider_l_Arm_WristSHJnt
+  - first:
+      1: 100008
+    second: Bike_Rider_l_Fingers_01_01SHJnt
+  - first:
+      1: 100010
+    second: Bike_Rider_l_Fingers_01_02SHJnt
+  - first:
+      1: 100012
+    second: Bike_Rider_l_Fingers_01_03SHJnt
+  - first:
+      1: 100014
+    second: Bike_Rider_l_Fingers_01_04SHJnt
+  - first:
+      1: 100016
+    second: Bike_Rider_l_Leg_AnkleSHJnt
+  - first:
+      1: 100018
+    second: Bike_Rider_l_Leg_BallSHJnt
+  - first:
+      1: 100020
+    second: Bike_Rider_l_Leg_HipSHJnt
+  - first:
+      1: 100022
+    second: Bike_Rider_l_Leg_KneeSHJnt
+  - first:
+      1: 100024
+    second: Bike_Rider_l_Leg_ToeSHJnt
+  - first:
+      1: 100026
+    second: Bike_Rider_l_Thumb_01_01SHJnt
+  - first:
+      1: 100028
+    second: Bike_Rider_l_Thumb_01_02SHJnt
+  - first:
+      1: 100030
+    second: Bike_Rider_l_Thumb_01_03SHJnt
+  - first:
+      1: 100032
+    second: Bike_Rider_l_Thumb_01_04SHJnt
+  - first:
+      1: 100034
+    second: Bike_Rider_MAINSHJnt
+  - first:
+      1: 100036
+    second: Bike_Rider_Neck_01SHJnt
+  - first:
+      1: 100038
+    second: Bike_Rider_Neck_02SHJnt
+  - first:
+      1: 100040
+    second: Bike_Rider_Neck_TopSHJnt
+  - first:
+      1: 100042
+    second: Bike_Rider_r_Arm_ClavicleSHJnt
+  - first:
+      1: 100044
+    second: Bike_Rider_r_Arm_ElbowSHJnt
+  - first:
+      1: 100046
+    second: Bike_Rider_r_Arm_ShoulderSHJnt
+  - first:
+      1: 100048
+    second: Bike_Rider_r_Arm_WristSHJnt
+  - first:
+      1: 100050
+    second: Bike_Rider_r_Fingers_01_01SHJnt
+  - first:
+      1: 100052
+    second: Bike_Rider_r_Fingers_01_02SHJnt
+  - first:
+      1: 100054
+    second: Bike_Rider_r_Fingers_01_03SHJnt
+  - first:
+      1: 100056
+    second: Bike_Rider_r_Fingers_01_04SHJnt
+  - first:
+      1: 100058
+    second: Bike_Rider_r_Leg_AnkleSHJnt
+  - first:
+      1: 100060
+    second: Bike_Rider_r_Leg_BallSHJnt
+  - first:
+      1: 100062
+    second: Bike_Rider_r_Leg_HipSHJnt
+  - first:
+      1: 100064
+    second: Bike_Rider_r_Leg_KneeSHJnt
+  - first:
+      1: 100066
+    second: Bike_Rider_r_Leg_ToeSHJnt
+  - first:
+      1: 100068
+    second: Bike_Rider_r_Thumb_01_01SHJnt
+  - first:
+      1: 100070
+    second: Bike_Rider_r_Thumb_01_02SHJnt
+  - first:
+      1: 100072
+    second: Bike_Rider_r_Thumb_01_03SHJnt
+  - first:
+      1: 100074
+    second: Bike_Rider_r_Thumb_01_04SHJnt
+  - first:
+      1: 100076
+    second: Bike_Rider_ROOTSHJnt
+  - first:
+      1: 100078
+    second: Bike_Rider_SHJntGrp
+  - first:
+      1: 100080
+    second: Bike_Rider_Spine_01SHJnt
+  - first:
+      1: 100082
+    second: Bike_Rider_Spine_02SHJnt
+  - first:
+      1: 100084
+    second: Bike_Rider_Spine_03SHJnt
+  - first:
+      1: 100086
+    second: Bike_Rider_Spine_04SHJnt
+  - first:
+      1: 100088
+    second: Bike_Rider_Spine_TopSHJnt
+  - first:
+      1: 100090
+    second: Biker_X
+  - first:
+      1: 100092
+    second: //RootNode
+  - first:
+      1: 100094
+    second: Goggles
+  - first:
+      1: 100096
+    second: Helmet
+  - first:
+      4: 400000
+    second: Bike_Rider_l_Arm_ClavicleSHJnt
+  - first:
+      4: 400002
+    second: Bike_Rider_l_Arm_ElbowSHJnt
+  - first:
+      4: 400004
+    second: Bike_Rider_l_Arm_ShoulderSHJnt
+  - first:
+      4: 400006
+    second: Bike_Rider_l_Arm_WristSHJnt
+  - first:
+      4: 400008
+    second: Bike_Rider_l_Fingers_01_01SHJnt
+  - first:
+      4: 400010
+    second: Bike_Rider_l_Fingers_01_02SHJnt
+  - first:
+      4: 400012
+    second: Bike_Rider_l_Fingers_01_03SHJnt
+  - first:
+      4: 400014
+    second: Bike_Rider_l_Fingers_01_04SHJnt
+  - first:
+      4: 400016
+    second: Bike_Rider_l_Leg_AnkleSHJnt
+  - first:
+      4: 400018
+    second: Bike_Rider_l_Leg_BallSHJnt
+  - first:
+      4: 400020
+    second: Bike_Rider_l_Leg_HipSHJnt
+  - first:
+      4: 400022
+    second: Bike_Rider_l_Leg_KneeSHJnt
+  - first:
+      4: 400024
+    second: Bike_Rider_l_Leg_ToeSHJnt
+  - first:
+      4: 400026
+    second: Bike_Rider_l_Thumb_01_01SHJnt
+  - first:
+      4: 400028
+    second: Bike_Rider_l_Thumb_01_02SHJnt
+  - first:
+      4: 400030
+    second: Bike_Rider_l_Thumb_01_03SHJnt
+  - first:
+      4: 400032
+    second: Bike_Rider_l_Thumb_01_04SHJnt
+  - first:
+      4: 400034
+    second: Bike_Rider_MAINSHJnt
+  - first:
+      4: 400036
+    second: Bike_Rider_Neck_01SHJnt
+  - first:
+      4: 400038
+    second: Bike_Rider_Neck_02SHJnt
+  - first:
+      4: 400040
+    second: Bike_Rider_Neck_TopSHJnt
+  - first:
+      4: 400042
+    second: Bike_Rider_r_Arm_ClavicleSHJnt
+  - first:
+      4: 400044
+    second: Bike_Rider_r_Arm_ElbowSHJnt
+  - first:
+      4: 400046
+    second: Bike_Rider_r_Arm_ShoulderSHJnt
+  - first:
+      4: 400048
+    second: Bike_Rider_r_Arm_WristSHJnt
+  - first:
+      4: 400050
+    second: Bike_Rider_r_Fingers_01_01SHJnt
+  - first:
+      4: 400052
+    second: Bike_Rider_r_Fingers_01_02SHJnt
+  - first:
+      4: 400054
+    second: Bike_Rider_r_Fingers_01_03SHJnt
+  - first:
+      4: 400056
+    second: Bike_Rider_r_Fingers_01_04SHJnt
+  - first:
+      4: 400058
+    second: Bike_Rider_r_Leg_AnkleSHJnt
+  - first:
+      4: 400060
+    second: Bike_Rider_r_Leg_BallSHJnt
+  - first:
+      4: 400062
+    second: Bike_Rider_r_Leg_HipSHJnt
+  - first:
+      4: 400064
+    second: Bike_Rider_r_Leg_KneeSHJnt
+  - first:
+      4: 400066
+    second: Bike_Rider_r_Leg_ToeSHJnt
+  - first:
+      4: 400068
+    second: Bike_Rider_r_Thumb_01_01SHJnt
+  - first:
+      4: 400070
+    second: Bike_Rider_r_Thumb_01_02SHJnt
+  - first:
+      4: 400072
+    second: Bike_Rider_r_Thumb_01_03SHJnt
+  - first:
+      4: 400074
+    second: Bike_Rider_r_Thumb_01_04SHJnt
+  - first:
+      4: 400076
+    second: Bike_Rider_ROOTSHJnt
+  - first:
+      4: 400078
+    second: Bike_Rider_SHJntGrp
+  - first:
+      4: 400080
+    second: Bike_Rider_Spine_01SHJnt
+  - first:
+      4: 400082
+    second: Bike_Rider_Spine_02SHJnt
+  - first:
+      4: 400084
+    second: Bike_Rider_Spine_03SHJnt
+  - first:
+      4: 400086
+    second: Bike_Rider_Spine_04SHJnt
+  - first:
+      4: 400088
+    second: Bike_Rider_Spine_TopSHJnt
+  - first:
+      4: 400090
+    second: Biker_X
+  - first:
+      4: 400092
+    second: //RootNode
+  - first:
+      4: 400094
+    second: Goggles
+  - first:
+      4: 400096
+    second: Helmet
+  - first:
+      43: 4300000
+    second: Goggles
+  - first:
+      43: 4300002
+    second: Helmet
+  - first:
+      43: 4300004
+    second: Biker_X
+  - first:
+      74: 7400000
+    second: Biker_X_Animation_Lean_Left
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Biker_X
+  - first:
+      137: 13700002
+    second: Goggles
+  - first:
+      137: 13700004
+    second: Helmet
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Biker_X_Animation_Lean_Left
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bike_Rider_SHJntGrp
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_l_Leg_HipSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_l_Leg_HipSHJnt/Bike_Rider_l_Leg_KneeSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_l_Leg_HipSHJnt/Bike_Rider_l_Leg_KneeSHJnt/Bike_Rider_l_Leg_AnkleSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_l_Leg_HipSHJnt/Bike_Rider_l_Leg_KneeSHJnt/Bike_Rider_l_Leg_AnkleSHJnt/Bike_Rider_l_Leg_BallSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_l_Leg_HipSHJnt/Bike_Rider_l_Leg_KneeSHJnt/Bike_Rider_l_Leg_AnkleSHJnt/Bike_Rider_l_Leg_BallSHJnt/Bike_Rider_l_Leg_ToeSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_r_Leg_HipSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_r_Leg_HipSHJnt/Bike_Rider_r_Leg_KneeSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_r_Leg_HipSHJnt/Bike_Rider_r_Leg_KneeSHJnt/Bike_Rider_r_Leg_AnkleSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_r_Leg_HipSHJnt/Bike_Rider_r_Leg_KneeSHJnt/Bike_Rider_r_Leg_AnkleSHJnt/Bike_Rider_r_Leg_BallSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_r_Leg_HipSHJnt/Bike_Rider_r_Leg_KneeSHJnt/Bike_Rider_r_Leg_AnkleSHJnt/Bike_Rider_r_Leg_BallSHJnt/Bike_Rider_r_Leg_ToeSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Fingers_01_01SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Fingers_01_01SHJnt/Bike_Rider_l_Fingers_01_02SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Fingers_01_01SHJnt/Bike_Rider_l_Fingers_01_02SHJnt/Bike_Rider_l_Fingers_01_03SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Fingers_01_01SHJnt/Bike_Rider_l_Fingers_01_02SHJnt/Bike_Rider_l_Fingers_01_03SHJnt/Bike_Rider_l_Fingers_01_04SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Thumb_01_01SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Thumb_01_01SHJnt/Bike_Rider_l_Thumb_01_02SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Thumb_01_01SHJnt/Bike_Rider_l_Thumb_01_02SHJnt/Bike_Rider_l_Thumb_01_03SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_l_Arm_ClavicleSHJnt/Bike_Rider_l_Arm_ShoulderSHJnt/Bike_Rider_l_Arm_ElbowSHJnt/Bike_Rider_l_Arm_WristSHJnt/Bike_Rider_l_Thumb_01_01SHJnt/Bike_Rider_l_Thumb_01_02SHJnt/Bike_Rider_l_Thumb_01_03SHJnt/Bike_Rider_l_Thumb_01_04SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_Neck_01SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_Neck_01SHJnt/Bike_Rider_Neck_02SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_Neck_01SHJnt/Bike_Rider_Neck_02SHJnt/Bike_Rider_Neck_TopSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Fingers_01_01SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Fingers_01_01SHJnt/Bike_Rider_r_Fingers_01_02SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Fingers_01_01SHJnt/Bike_Rider_r_Fingers_01_02SHJnt/Bike_Rider_r_Fingers_01_03SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Fingers_01_01SHJnt/Bike_Rider_r_Fingers_01_02SHJnt/Bike_Rider_r_Fingers_01_03SHJnt/Bike_Rider_r_Fingers_01_04SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Thumb_01_01SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Thumb_01_01SHJnt/Bike_Rider_r_Thumb_01_02SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Thumb_01_01SHJnt/Bike_Rider_r_Thumb_01_02SHJnt/Bike_Rider_r_Thumb_01_03SHJnt
+        weight: 1
+      - path: Bike_Rider_SHJntGrp/Bike_Rider_MAINSHJnt/Bike_Rider_ROOTSHJnt/Bike_Rider_Spine_01SHJnt/Bike_Rider_Spine_02SHJnt/Bike_Rider_Spine_03SHJnt/Bike_Rider_Spine_04SHJnt/Bike_Rider_Spine_TopSHJnt/Bike_Rider_r_Arm_ClavicleSHJnt/Bike_Rider_r_Arm_ShoulderSHJnt/Bike_Rider_r_Arm_ElbowSHJnt/Bike_Rider_r_Arm_WristSHJnt/Bike_Rider_r_Thumb_01_01SHJnt/Bike_Rider_r_Thumb_01_02SHJnt/Bike_Rider_r_Thumb_01_03SHJnt/Bike_Rider_r_Thumb_01_04SHJnt
+        weight: 1
+      - path: Biker_X
+        weight: 1
+      - path: Goggles
+        weight: 1
+      - path: Helmet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.03
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

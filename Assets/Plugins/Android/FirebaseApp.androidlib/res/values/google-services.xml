@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">454672009560</string>
+  <string name="google_storage_bucket" translatable="false">school-breaker-db6d2.appspot.com</string>
+  <string name="project_id" translatable="false">school-breaker-db6d2</string>
+  <string name="google_api_key" translatable="false">AIzaSyAtxH6W1f8WsEMuBpvuF4ETpweDfx04xz0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAtxH6W1f8WsEMuBpvuF4ETpweDfx04xz0</string>
+  <string name="google_app_id" translatable="false">1:454672009560:android:af089ca2ddbeed3ed37d2d</string>
+  <string name="default_android_client_id" translatable="false">454672009560-4abv679mfl2t3r2pjljnped2mb0v4jul.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">454672009560-8sni3g92ldgn13mj8jeo6q7a71tt51fd.apps.googleusercontent.com</string>
+</resources>

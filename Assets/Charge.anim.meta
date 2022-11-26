@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/New mesh/Materials/Visual.mat.meta
+guid: 3fd719bfea69cff44a04e4379c1775b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+=======
+guid: e6276c6e3b900de4f8b5f62222f7e987
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+>>>>>>> accf28192d924f2eadf72a9b76279be5773db7f0:Assets/Charge.anim.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

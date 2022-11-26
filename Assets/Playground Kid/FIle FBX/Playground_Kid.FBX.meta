@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: be780fc3fa8f2bd47becb8077ded098e
+timeCreated: 1559230469
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Playground_Kid
+    100004: Playground_Kid1
+    100006: Playground_Kid10
+    100008: Playground_Kid11
+    100010: Playground_Kid12
+    100012: Playground_Kid13
+    100014: Playground_Kid14
+    100016: Playground_Kid15
+    100018: Playground_Kid16
+    100020: Playground_Kid17
+    100022: Playground_Kid18
+    100024: Playground_Kid19
+    100026: Playground_Kid2
+    100028: Playground_Kid20
+    100030: Playground_Kid21
+    100032: Playground_Kid3
+    100034: Playground_Kid4
+    100036: Playground_Kid5
+    100038: Playground_Kid6
+    100040: Playground_Kid7
+    100042: Playground_Kid8
+    100044: Playground_Kid9
+    400000: //RootNode
+    400002: Playground_Kid
+    400004: Playground_Kid1
+    400006: Playground_Kid10
+    400008: Playground_Kid11
+    400010: Playground_Kid12
+    400012: Playground_Kid13
+    400014: Playground_Kid14
+    400016: Playground_Kid15
+    400018: Playground_Kid16
+    400020: Playground_Kid17
+    400022: Playground_Kid18
+    400024: Playground_Kid19
+    400026: Playground_Kid2
+    400028: Playground_Kid20
+    400030: Playground_Kid21
+    400032: Playground_Kid3
+    400034: Playground_Kid4
+    400036: Playground_Kid5
+    400038: Playground_Kid6
+    400040: Playground_Kid7
+    400042: Playground_Kid8
+    400044: Playground_Kid9
+    2300000: Playground_Kid
+    2300002: Playground_Kid1
+    2300004: Playground_Kid10
+    2300006: Playground_Kid11
+    2300008: Playground_Kid12
+    2300010: Playground_Kid13
+    2300012: Playground_Kid14
+    2300014: Playground_Kid15
+    2300016: Playground_Kid16
+    2300018: Playground_Kid17
+    2300020: Playground_Kid18
+    2300022: Playground_Kid19
+    2300024: Playground_Kid2
+    2300026: Playground_Kid20
+    2300028: Playground_Kid21
+    2300030: Playground_Kid3
+    2300032: Playground_Kid4
+    2300034: Playground_Kid5
+    2300036: Playground_Kid6
+    2300038: Playground_Kid7
+    2300040: Playground_Kid8
+    2300042: Playground_Kid9
+    3300000: Playground_Kid
+    3300002: Playground_Kid1
+    3300004: Playground_Kid10
+    3300006: Playground_Kid11
+    3300008: Playground_Kid12
+    3300010: Playground_Kid13
+    3300012: Playground_Kid14
+    3300014: Playground_Kid15
+    3300016: Playground_Kid16
+    3300018: Playground_Kid17
+    3300020: Playground_Kid18
+    3300022: Playground_Kid19
+    3300024: Playground_Kid2
+    3300026: Playground_Kid20
+    3300028: Playground_Kid21
+    3300030: Playground_Kid3
+    3300032: Playground_Kid4
+    3300034: Playground_Kid5
+    3300036: Playground_Kid6
+    3300038: Playground_Kid7
+    3300040: Playground_Kid8
+    3300042: Playground_Kid9
+    4300000: Playground_Kid
+    4300002: Playground_Kid1
+    4300004: Playground_Kid2
+    4300006: Playground_Kid3
+    4300008: Playground_Kid4
+    4300010: Playground_Kid5
+    4300012: Playground_Kid6
+    4300014: Playground_Kid7
+    4300016: Playground_Kid8
+    4300018: Playground_Kid9
+    4300020: Playground_Kid10
+    4300022: Playground_Kid11
+    4300024: Playground_Kid12
+    4300026: Playground_Kid13
+    4300028: Playground_Kid14
+    4300030: Playground_Kid15
+    4300032: Playground_Kid16
+    4300034: Playground_Kid17
+    4300036: Playground_Kid18
+    4300038: Playground_Kid19
+    4300040: Playground_Kid20
+    4300042: Playground_Kid21
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
